@@ -1,1 +1,7 @@
 /.vs
+/src/CloudExplorer/bin
+/src/CloudExplorer/obj
+/Tests/CloudExplorer.Tests/bin
+/Tests/CloudExplorer.Tests/obj
+/Tests/CloudExplorer.IntegrationTests/bin
+/Tests/CloudExplorer.IntegrationTests/obj
